@@ -80,7 +80,7 @@ Run validation queries to check data quality after the cleaning operations.
 
 Repository Structure
 
-sql-housing-data-cleaning/ ├── housing_sql_project.ipynb └── README.md 
+sql-housing-data-cleaning/ ├── housing-sql-project.ipynb └── README.md 
 
 Key Skills Demonstrated
 
